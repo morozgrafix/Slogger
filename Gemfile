@@ -6,6 +6,8 @@ gem 'twitter_oauth'
 gem 'json'
 gem 'instagram'
 gem 'sinatra'
+gem 'awesome_print'
+gem 'foursquare2'
 
 gem 'nokogiri'
 gem 'digest' # required for feedafever
